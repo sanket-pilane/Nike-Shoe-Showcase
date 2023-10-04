@@ -4,7 +4,7 @@ This is my very first React project, a single-page application that showcases a 
 
 ## Project Preview
 
-![Project Preview](https://github.com/sanket-pilane/Nike-Shoe-Showcase/blob/main/public/images/output.png)
+ ![Project Preview](https://github.com/sanket-pilane/Sushi-man-flutter-app/assets/140826056/e43a3bf6-0c43-4244-bd12-323666a08422) 
 
 ## Key Features
 
