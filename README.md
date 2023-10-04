@@ -1,10 +1,11 @@
+
 # My First React Project: Nike Shoe Showcase
 
 This is my very first React project, a single-page application that showcases a stylish Nike shoe. The project was designed meticulously using Figma, and then I brought it to life using React.js and plain CSS
 
 ## Project Preview
 
- ![Project Preview](https://github.com/sanket-pilane/Sushi-man-flutter-app/assets/140826056/e43a3bf6-0c43-4244-bd12-323666a08422) 
+![Screenshot from 2023-10-04 16-46-06](https://github.com/sanket-pilane/Nike-Shoe-Showcase/assets/140826056/51cef3ca-2674-42aa-aa2d-e2422557e912)
 
 ## Key Features
 
