@@ -1,8 +1,49 @@
-# React + Vite
+# My First React Project: Nike Shoe Showcase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my very first React project, a single-page application that showcases a stylish Nike shoe. The project was designed meticulously using Figma, and then I brought it to life using React.js and plain CSS
 
-Currently, two official plugins are available:
+## Project Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Project Preview](https://github.com/sanket-pilane/Nike-Shoe-Showcase/blob/main/public/images/output.png)
+
+## Key Features
+
+- Navbar: The project includes a navigation bar for easy access to different sections.
+- Nike Shoe Showcase: The centerpiece of the project is a visually stunning Nike shoe, complete with a title and description to provide details about the product.
+
+## Why I Built This
+
+I decided to embark on this project to learn and practice React.js, a popular JavaScript library for building user interfaces. By designing the project in Figma first, I honed my design skills and then applied them to create a seamless and visually appealing user experience.
+
+## Technologies Used
+
+- React.js
+- Plain CSS
+- Figma (for design inspiration)
+
+## Getting Started
+
+If you'd like to explore my project further or contribute to its development, here's how you can get started:
+
+1. Clone this repository to your local machine.
+
+```bash
+git clone https://github.com/sanket-pilane/Nike-Shoe-Showcase.git
+
+```
+
+2. Install the required dependencies by running
+
+```bash
+npm i
+```
+
+3. Start the development server with
+
+```bash
+npm run dev
+```
+
+Feel free to reach out if you have any questions or feedback. I'm excited to share my journey as I continue to learn and grow as a developer.
+
+Happy coding!
